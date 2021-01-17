@@ -10,10 +10,10 @@ instaling-solver is a small project that automates the process of answering [ins
 
 ## Usage
 
-`git clone https://github.com/SmellyN3rd/instaling-solver`</br></br>
-`cd instaling-solver`</br></br>
-`pip install -r requirements.txt`</br></br>
-`python instaling.py [options]`</br></br>
+`git clone https://github.com/SmellyN3rd/instaling-solver`
+`cd instaling-solver`
+`pip install -r requirements.txt`
+`python instaling.py [options]`
 
 
 ## Options
