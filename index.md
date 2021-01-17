@@ -28,7 +28,7 @@ python instaling.py [options]
 | --file=       | specify the file to which to read/write to |
 | --minimize    | start the program with a minimized browser |
 
-| Column 1 Header | Column 2 Header | 
+| option | description | 
 | --------------- | --------------- | 
 | Row 1 Column 1 | Row 1 Column 2 | 
 | Row 2 Column 1 | Row 2 Column 2 | 
