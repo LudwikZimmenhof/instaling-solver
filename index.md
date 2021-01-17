@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## About the project
+instaling-solver is a small project that automates the process of answering [instaling.pl](https://instaling.pl/) questions.
 
-You can use the [editor on GitHub](https://github.com/SmellyN3rd/instaling-solver/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## dependencies
+- [geckodriver-autoinstaller](https://pypi.org/project/geckodriver-autoinstaller/)
+- [selenium](https://pypi.org/project/selenium/)
+- [firefox](https://www.mozilla.org/firefox/new/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Usage
 
-```markdown
-Syntax highlighted code block
+`git clone https://github.com/SmellyN3rd/instaling-solver`</br></br>
+`cd instaling-solver`</br></br>
+`pip install -r requirements.txt`</br></br>
+`python instaling.py [options]`</br></br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Options
+option        | description
+------------- | -------------
+--user=       | specify the instaling account to use
+--password=   | password for the given account
+--sessions=   | specify the amount of sessions to complete
+--file=       | specify the file to which to read/write to
+--minimize    | start the program with a minimized browser
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmellyN3rd/instaling-solver/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Showcase
+<img src="https://media.giphy.com/media/njjiYq0zcxNpkfeV02/giphy.gif" >
