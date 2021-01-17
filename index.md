@@ -30,12 +30,11 @@ python instaling.py [options]
 
 | option | description | 
 | :-------------: | :-------------: | 
-| Row 1 Column 1 | Row 1 Column 2 | 
-| Row 2 Column 1 | Row 2 Column 2 | 
-| Row 3 Column 1 | Row 3 Column 2 | 
-| Row 3 Column 1 | Row 3 Column 2 | 
-| Row 3 Column 1 | Row 3 Column 2 | 
-| Row 3 Column 1 | Row 3 Column 2 | 
+| --user= | specify the instaling account to use | 
+| --password= | password for the given account | 
+| --sessions= | specify the amount of sessions to complete | 
+| --file= | specify the file to which to read/write to | 
+| --minimize | start the program with a minimized browser | 
 
 
 # Showcase
