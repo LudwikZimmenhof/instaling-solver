@@ -21,13 +21,13 @@ python instaling.py [options]
 
 ## Options
 
-| option | description | 
-| :-------------: | :-------------: | 
-| --user= | specify the instaling account to use | 
-| --password= | password for the given account | 
-| --sessions= | specify the amount of sessions to complete | 
-| --file= | specify the file to which to read/write to | 
-| --minimize | start the program with a minimized browser | 
+option        | description
+------------- | -------------
+--user    -u        | specify the instaling account to use
+--password    -p    | password for the given account
+--sessions -s    | specify the amount of sessions to complete
+--file    -f        | specify the file to which to read/write to
+--headless    -h    | start the program in the headless mode
 
 
 # Showcase
