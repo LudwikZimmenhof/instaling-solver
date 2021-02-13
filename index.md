@@ -8,16 +8,16 @@ instaling-solver is a small project that automates the process of answering [ins
 - [firefox](https://www.mozilla.org/firefox/new/)
 
 ## Installation
-`pip install instaling-solver`</br></br>
+`pip install instaling-solver`
 
-or</br></br>
+or
 
-`git clone https://github.com/SmellyN3rd/instaling-solver`</br></br>
-`cd instaling-solver`</br></br>
-`python setup.py install`</br></br>
+`git clone https://github.com/SmellyN3rd/instaling-solver`
+`cd instaling-solver`
+`python setup.py install`
 
 ## Usage
-`python -m instaling-solver [options]`</br></br>
+`python -m instaling-solver [options]`
 
 ## Options
 
