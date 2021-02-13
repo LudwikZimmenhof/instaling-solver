@@ -12,8 +12,8 @@ instaling-solver is a small project that automates the process of answering [ins
 
 or
 
-`git clone https://github.com/SmellyN3rd/instaling-solver`
-`cd instaling-solver`
+`git clone https://github.com/SmellyN3rd/instaling-solver`\
+`cd instaling-solver`\
 `python setup.py install`
 
 ## Usage
